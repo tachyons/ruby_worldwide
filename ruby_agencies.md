@@ -16,5 +16,6 @@ These are companies who you can hire to write code for you.
 - [Neo](http://Neo.com)
 - [New Bamboo](http://NewBamboo.co.uk)
 - [Pivotal Labs](http://pivotal.com)
+- [Substantial](http://substantial.com)
 - [ThoughtBot.com](http://thoughtbot.com)
 - [Unboxed](http://Unboxed.co.uk)
