@@ -14,7 +14,7 @@ These are companies who you can hire to write code for you.
 - [Hashrocket](http://Hashrocket.com)
 - [Intentional Excellence](http://iephq.com)
 - [Neo](http://Neo.com)
-- [New Bamboo](http://NewBamboo.co.uk)
+- [New Bamboo](http://www.new-bamboo.co.uk)
 - [NinjaConcept](http://ninjaconcept.com)
 - [Pivotal Labs](http://pivotal.com)
 - [Substantial](http://substantial.com)
