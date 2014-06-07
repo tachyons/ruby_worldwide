@@ -18,4 +18,4 @@ These are companies who you can hire to write code for you.
 - [NinjaConcept](http://ninjaconcept.com)
 - [Pivotal Labs](http://pivotal.com)
 - [ThoughtBot.com](http://thoughtbot.com)
-- [Unboxed](http://Unboxed.co.uk)
+- [Unboxed](http://www.unboxedconsulting.com)
