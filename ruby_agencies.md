@@ -31,3 +31,4 @@ Name                                                | Location                  
 [ThoughtBot.com](http://thoughtbot.com)             | Boston, Massachusetts, USA |
 [Unboxed](http://www.unboxedconsulting.com)         | London, UK                 |
 [Zeal](http://www.codingzeal.com/)                  |                            |
+[Serious Fox](http://www.seriousfox.co.uk)          | London, UK                 |
