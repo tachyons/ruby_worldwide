@@ -13,7 +13,7 @@ Name                                                | Location                  
 [Asquera](http://asquera.de)                        |                                    |
 [Bendyworks](http://Bendyworks.com)                 |                                    |
 [Big Binary](http://BigBinary.com)                  |                                    |
-[CognitiveClouds](http://www.cognitiveclouds.com/)  |                                    |
+[CognitiveClouds](http://www.cognitiveclouds.com/)  | Bangalore, India                     no         |
 [Crowd Interactive](http://www.crowdint.com/)       | San Francisco, USA; Colima, Mexico | yes
 [Curatur](http://Curatur.com)                       | Plantation, Florida, USA           | yes
 [Dockyard](http://dockyard.com)                     |                                    |
