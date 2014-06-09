@@ -28,8 +28,8 @@ Name                                                | Location                  
 [Planet Argon](http://planetargon.com)              | Portland, Oregon, USA      | yes
 [Revealing Hour Creations](http://revealinghour.in) |                            |
 [Rietta](http://rietta.com)                         |                            |
+[Serious Fox](http://www.seriousfox.co.uk)          | London, UK                 |
 [Substantial](http://substantial.com)               |                            |
 [ThoughtBot.com](http://thoughtbot.com)             | Boston, Massachusetts, USA |
 [Unboxed](http://www.unboxedconsulting.com)         | London, UK                 |
 [Zeal](http://www.codingzeal.com/)                  |                            |
-[Serious Fox](http://www.seriousfox.co.uk)          | London, UK                 |
