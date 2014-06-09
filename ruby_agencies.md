@@ -25,6 +25,7 @@ Name                                                | Location                  
 [New Bamboo](http://www.new-bamboo.co.uk)           | London, UK                 | no
 [NinjaConcept](http://ninjaconcept.com)             |                            |
 [Pivotal Labs](http://pivotal.com)                  |                            |
+[Planet Argon](http://planetargon.com)              | Portland, Oregon, USA      | yes
 [Revealing Hour Creations](http://revealinghour.in) |                            |
 [Rietta](http://rietta.com)                         |                            |
 [Substantial](http://substantial.com)               |                            |
