@@ -14,6 +14,7 @@ These are companies who you can hire to write code for you.
 - [Gray Productions](http://graysoftinc.com/)
 - [Hashrocket](http://Hashrocket.com)
 - [Intentional Excellence](http://iephq.com)
+- [Mikamai](http://www.mikamai.com)
 - [Neo](http://Neo.com)
 - [New Bamboo](http://www.new-bamboo.co.uk)
 - [NinjaConcept](http://ninjaconcept.com)
