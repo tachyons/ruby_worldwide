@@ -8,6 +8,7 @@ These are companies who you can hire to write code for you.
 - [Asquera](http://asquera.de)
 - [Bendyworks](http://Bendyworks.com)
 - [Big Binary](http://BigBinary.com)
+- [CognitiveClouds](http://www.cognitiveclouds.com/)
 - [Curatur](http://Curatur.com)
 - [Dockyard](http://dockyard.com)
 - [Envy Labs](http://envylabs.com)
