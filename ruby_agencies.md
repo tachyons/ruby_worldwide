@@ -4,6 +4,7 @@ These are companies who you can hire to write code for you.
 
 - [8th Light](http://8thLight.com)
 - [12 Spokes](http://www.12spokes.com/)
+- [13Floor](http://13floor.org/)
 - [Adorable](http://Adorable.io)
 - [Asquera](http://asquera.de)
 - [Bendyworks](http://Bendyworks.com)
