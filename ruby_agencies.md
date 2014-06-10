@@ -16,6 +16,7 @@ Name                                                | Location                  
 [CognitiveClouds](http://www.cognitiveclouds.com/)  | Bangalore, India                   | no
 [Crowd Interactive](http://www.crowdint.com/)       | San Francisco, USA; Colima, Mexico | yes
 [Curatur](http://Curatur.com)                       | Plantation, Florida, USA           | yes
+[Cybrilla Technologies](http://www.cybrilla.com/)   | Bangalore, India                   | yes
 [Dockyard](http://dockyard.com)                     |                                    |
 [Envy Labs](http://envylabs.com)                    |                                    |
 [Gray Productions](http://graysoftinc.com/)         | Edmond, Oklahoma, USA              |
