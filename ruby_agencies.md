@@ -24,6 +24,7 @@ Name                                                | Location                  
 [Intentional Excellence](http://iephq.com)          |                                    |
 [MavenHive](http://www.mavenhive.in/)               | Bangalore, Karnataka, India        | yes
 [Mikamai](http://www.mikamai.com)                   | Milan, IT                          | sometimes
+[Mint Digital](http://www.mintdigital.com)          | London, UK & New York, USA         | sometimes
 [Neo](http://Neo.com)                               |                                    |
 [New Bamboo](http://www.new-bamboo.co.uk)           | London, UK                         | no
 [NinjaConcept](http://ninjaconcept.com)             |                                    |
