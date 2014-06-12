@@ -10,7 +10,7 @@ Name                                                | Location                  
 [12 Spokes](http://www.12spokes.com/)               |                                    |
 [13Floor](http://13floor.org/)                      |                                    |
 [Adorable](http://Adorable.io)                      |                                    |
-[Asquera](http://asquera.de)                        |                                    |
+[Asquera](http://asquera.de)                        | Berlin, Germany                    | yes
 [Bendyworks](http://Bendyworks.com)                 |                                    |
 [Big Binary](http://BigBinary.com)                  |                                    |
 [CognitiveClouds](http://www.cognitiveclouds.com/)  | Bangalore, India                   | no
@@ -27,7 +27,7 @@ Name                                                | Location                  
 [Mint Digital](http://www.mintdigital.com)          | London, UK & New York, USA         | sometimes
 [Neo](http://Neo.com)                               |                                    |
 [New Bamboo](http://www.new-bamboo.co.uk)           | London, UK                         | no
-[NinjaConcept](http://ninjaconcept.com)             |                                    |
+[NinjaConcept](http://ninjaconcept.com)             | Karlsruhe, Germany                 | yes
 [Pivotal Labs](http://pivotal.com)                  |                                    |
 [Planet Argon](http://planetargon.com)              | Portland, Oregon, USA              | yes
 [PullReview](https://pullreview.com)                | Brussels, Belgium
