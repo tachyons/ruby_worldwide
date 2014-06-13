@@ -11,7 +11,7 @@ Name                                                | Location                  
 [13Floor](http://13floor.org/)                      |                                    |
 [Adorable](http://Adorable.io)                      |                                    |
 [Asquera](http://asquera.de)                        | Berlin, Germany                    | yes
-[Bendyworks](http://Bendyworks.com)                 |                                    |
+[Bendyworks](http://Bendyworks.com)                 | Madison, Wisconsin, USA            | yes
 [Big Binary](http://BigBinary.com)                  |                                    |
 [CognitiveClouds](http://www.cognitiveclouds.com/)  | Bangalore, India                   | no
 [Crowd Interactive](http://www.crowdint.com/)       | San Francisco, USA; Colima, Mexico | yes
