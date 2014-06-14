@@ -35,6 +35,7 @@ Name                                                | Location                  
 [Revealing Hour Creations](http://revealinghour.in) |                                    |
 [Rietta](http://rietta.com)                         |                                    |
 [Serious Fox](http://www.seriousfox.co.uk)          | London, UK                         |
+[Spritle Software](http://www.spritle.com)          | Chennai, India & Singapore         | yes
 [Substantial](http://substantial.com)               |                                    |
 [ThoughtBot.com](http://thoughtbot.com)             | Boston, Massachusetts, USA         |
 [Unboxed](http://www.unboxedconsulting.com)         | London, UK                         |
