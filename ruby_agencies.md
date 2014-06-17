@@ -13,6 +13,7 @@ Name                                                | Location                  
 [Asquera](http://asquera.de)                        | Berlin, Germany                    | yes
 [Bendyworks](http://Bendyworks.com)                 | Madison, Wisconsin, USA            | yes
 [Big Binary](http://BigBinary.com)                  |                                    |
+[Codevise](http://www.codevise.de/)                 | Cologne, Germany                   | no
 [CognitiveClouds](http://www.cognitiveclouds.com/)  | Bangalore, India                   | no
 [Crowd Interactive](http://www.crowdint.com/)       | San Francisco, USA; Colima, Mexico | yes
 [Curatur](http://Curatur.com)                       | Plantation, Florida, USA           | yes
