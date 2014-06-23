@@ -41,5 +41,5 @@ Name                                                | Location                  
 [Spritle Software](http://www.spritle.com)          | Chennai, India & Singapore         | yes
 [Substantial](http://substantial.com)               |                                    |
 [ThoughtBot.com](http://thoughtbot.com)             | Boston, Massachusetts, USA         |
-[Unboxed](http://www.unboxedconsulting.com)         | London, UK                         |
+[Unboxed](http://www.unboxedconsulting.com)         | London, UK & Cape Town, SA         | sometimes
 [Zeal](http://www.codingzeal.com/)                  |                                    |
