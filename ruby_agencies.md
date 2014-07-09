@@ -20,6 +20,7 @@ Name                                                | Location                  
 [Cybrilla Technologies](http://www.cybrilla.com/)   | Bangalore, India                   | yes
 [DiUS Computing](http://dius.com.au)                | Melbourne, Sydney, Australia       |
 [Dockyard](http://dockyard.com)                     |                                    |
+[Eigence](http://eigence.com)                       | New York, NY, USA                  | yes
 [Envy Labs](http://envylabs.com)                    |                                    |
 [Gray Productions](http://graysoftinc.com/)         | Edmond, Oklahoma, USA              |
 [Hashrocket](http://Hashrocket.com)                 | Jacksonville, Florida, USA         |
