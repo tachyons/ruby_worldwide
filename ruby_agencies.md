@@ -8,7 +8,7 @@ Name                                                | Location                  
 ----------------------------------------------------|------------------------------------|---------------
 [8th Light](http://8thLight.com)                    |                                    |
 [12 Spokes](http://www.12spokes.com/)               |                                    |
-[13Floor](http://13floor.org/)                      |                                    |
+[13Floor](http://13floor.org/)                      | Montevideo, Uruguay                | yes
 [Adorable](http://Adorable.io)                      |                                    |
 [Asquera](http://asquera.de)                        | Berlin, Germany                    | yes
 [Bendyworks](http://Bendyworks.com)                 | Madison, Wisconsin, USA            | yes
