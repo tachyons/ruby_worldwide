@@ -29,7 +29,7 @@ Name                                                | Location                  
 [Mikamai](http://www.mikamai.com)                   | Milan, IT                          | sometimes
 [Mint Digital](http://www.mintdigital.com)          | London, UK & New York, USA         | sometimes
 [Neo](http://Neo.com)                               |                                    |
-[New Bamboo](http://www.new-bamboo.co.uk)           | London, UK                         | no
+[New Bamboo](http://www.new-bamboo.co.uk)           | London, UK                         | sometimes
 [NinjaConcept](http://ninjaconcept.com)             | Karlsruhe, Germany                 | yes
 [Overcast Software](http://www.overcast.io)         | Reykjavik, Iceland                 | yes
 [Pivotal Labs](http://pivotal.com)                  |                                    |
