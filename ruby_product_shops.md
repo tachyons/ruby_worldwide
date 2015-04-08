@@ -8,6 +8,7 @@ Name                                        | Location
 --------------------------------------------|---------
 [CodeGuard](https://codeguard.com/)         | Atlanta, Georgia, USA
 [CrowdLab](http://crowdlab.com/)            | Leicester, UK
+[CrowdStudio.in](http://crowdstudio.in/)    | Kochi, India
 [DealerMatch](http://www3.dealermatch.com/) | Atlanta, Georgia, USA
 [Milaap](https://milaap.org/)               | Bangalore, India
 [PullReview](https://pullreview.com)        | Brussels, Belgium
