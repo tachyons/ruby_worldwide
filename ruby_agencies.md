@@ -37,6 +37,7 @@ Name                                                | Location                  
 [PullReview](https://pullreview.com)                | Brussels, Belgium
 [RainingClouds Technologies](http://rainingclouds.com) | Pune, India                     | yes
 [Revealing Hour Creations](http://revealinghour.in) |                                    |
+[Red Panthers](http://redpanthers.co)               | Cochin, India                      | no
 [Rietta](http://rietta.com)                         | Atlanta, Georgia, USA              | yes
 [Serious Fox](http://www.seriousfox.co.uk)          | London, UK                         |
 [Spritle Software](http://www.spritle.com)          | Chennai, India & Singapore         | yes
