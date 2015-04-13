@@ -33,6 +33,7 @@ Name                                                | Location                  
 [NinjaConcept](http://ninjaconcept.com)             | Karlsruhe, Germany                 | yes
 [Overcast Software](http://www.overcast.io)         | Reykjavik, Iceland                 | yes
 [Pivotal Labs](http://pivotal.com)                  |                                    |
+[Polyglot Programming Inc.](http://www.polyglotprogramminginc.com/) | Atlanta, GA, USA   | yes
 [Planet Argon](http://planetargon.com)              | Portland, Oregon, USA              | yes
 [PullReview](https://pullreview.com)                | Brussels, Belgium
 [RainingClouds Technologies](http://rainingclouds.com) | Pune, India                     | yes
