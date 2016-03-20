@@ -16,7 +16,7 @@ Name                                                | Location                  
 [Codevise](http://www.codevise.de/)                 | Cologne, Germany                   | no
 [CognitiveClouds](http://www.cognitiveclouds.com/)  | Bangalore, India                   | no
 [Crowd Interactive](http://www.crowdint.com/)       | San Francisco, USA; Colima, Mexico | yes
-[Curatur](http://Curatur.com)                       | Plantation, Florida, USA           | yes
+[Curatur](http://Curatur.com)                       | Fort Lauderdale, Florida, USA      | yes
 [Cybrilla Technologies](http://www.cybrilla.com/)   | Bangalore, India                   | yes
 [DiUS Computing](http://dius.com.au)                | Melbourne, Sydney, Australia       |
 [Dockyard](http://dockyard.com)                     |                                    |
@@ -29,7 +29,6 @@ Name                                                | Location                  
 [Mikamai](http://www.mikamai.com)                   | Milan, IT                          | sometimes
 [Mint Digital](http://www.mintdigital.com)          | London, UK & New York, USA         | sometimes
 [Neo](http://Neo.com)                               |                                    |
-[New Bamboo](http://www.new-bamboo.co.uk)           | London, UK                         | sometimes
 [NinjaConcept](http://ninjaconcept.com)             | Karlsruhe, Germany                 | yes
 [Overcast Software](http://www.overcast.io)         | Reykjavik, Iceland                 | yes
 [Pivotal Labs](http://pivotal.com)                  |                                    |
@@ -43,6 +42,7 @@ Name                                                | Location                  
 [Serious Fox](http://www.seriousfox.co.uk)          | London, UK                         |
 [Spritle Software](http://www.spritle.com)          | Chennai, India & Singapore         | yes
 [Substantial](http://substantial.com)               |                                    |
-[ThoughtBot.com](http://thoughtbot.com)             | Boston, Massachusetts, USA         |
+[ThoughtBot Boston](http://thoughtbot.com)          | Boston, Massachusetts, USA         |
+[ThoughtBot London](https://thoughtbot.com/london)  | London, UK                         | sometimes
 [Unboxed](http://www.unboxedconsulting.com)         | London, UK & Cape Town, SA         | sometimes
 [Zeal](http://www.codingzeal.com/)                  |                                    |
