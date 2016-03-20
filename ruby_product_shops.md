@@ -12,5 +12,6 @@ Name                                        | Location
 [DealerMatch](http://www3.dealermatch.com/) | Atlanta, Georgia, USA
 [Milaap](https://milaap.org/)               | Bangalore, India
 [PullReview](https://pullreview.com)        | Brussels, Belgium
+[SpeedETab](https://www.speedetab.com)      | Fort Lauderdale, Florida, USA
 [Travis CI](http://travis-ci.com)           | world wide (HQ in Berlin, Germany)
 [Whitepages](http://whitepages.com)         |
