@@ -15,3 +15,6 @@ Name                                        | Location
 [SpeedETab](https://www.speedetab.com)      | Fort Lauderdale, Florida, USA
 [Travis CI](http://travis-ci.com)           | world wide (HQ in Berlin, Germany)
 [Whitepages](http://whitepages.com)         |
+[Foradian](http://www.foradian.com/)        | Bangalore, India
+
+
