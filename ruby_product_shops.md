@@ -10,6 +10,7 @@ Name                                        | Location
 [CrowdLab](http://crowdlab.com/)            | Leicester, UK
 [CrowdStudio.in](http://crowdstudio.in/)    | Kochi, India
 [DealerMatch](http://www3.dealermatch.com/) | Atlanta, Georgia, USA
+[Foradian](http://www.foradian.com/)        | Bangalore, India
 [Milaap](https://milaap.org/)               | Bangalore, India
 [PullReview](https://pullreview.com)        | Brussels, Belgium
 [SpeedETab](https://www.speedetab.com)      | Fort Lauderdale, Florida, USA
